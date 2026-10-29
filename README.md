@@ -1,2 +1,2 @@
 # alphatrace-feed-
-Data feed for group
+Market data feed
