@@ -26,6 +26,7 @@ HBESD,INE640B01021,"classified, but no shares/float from any source"
 HESTERBIO,INE782E01017,"classified, but no shares/float from any source"
 HTEL,INE0LEG01024,"classified, but no shares/float from any source"
 IIRM,INE670C01026,"classified, but no shares/float from any source"
+INDTONER,INE826B01026,"classified, but no shares/float from any source"
 IONEXCHANG,INE570A01022,"classified, but no shares/float from any source"
 ITL,INE478D01014,"classified, but no shares/float from any source"
 JPL,INE0BJO01010,"classified, but no shares/float from any source"
@@ -67,3 +68,12 @@ TURTLEMINT,INE0OC301013,"classified, but no shares/float from any source"
 UDAYJEW,INE551B01012,"classified, but no shares/float from any source"
 VEEGALAND,INE1JTV01015,"classified, but no shares/float from any source"
 ZODIAC,INE761Y01019,"classified, but no shares/float from any source"
+AHLADA,INE00PV01013,second source found nothing (NSE blocked/empty; Yahoo industry 'Building Products & Equipment' not mappable)
+AKG,INE00Y801016,second source found nothing (NSE blocked/empty; Yahoo industry 'Industrial Distribution' not mappable)
+ARHAM,INE0L2Y01011,"no BSE listing for this ISIN, so no classification"
+BANKA,INE862Y01015,second source found nothing (NSE blocked/empty; Yahoo industry 'Pollution & Treatment Controls' not mappable)
+BEARDSELL,INE520H01022,second source found nothing (NSE blocked/empty; Yahoo industry 'Building Products & Equipment' not mappable)
+LEXUS,INE500X01013,second source found nothing (NSE blocked/empty; Yahoo industry 'Building Products & Equipment' not mappable)
+PANACHE,INE895W01019,second source found nothing (NSE blocked/empty; Yahoo industry 'Communication Equipment' not mappable)
+TOUCHWOOD,INE486Y01013,second source found nothing (NSE blocked/empty; Yahoo industry 'Advertising Agencies' not mappable)
+VERTOZ,INE188Y01031,second source found nothing (NSE blocked/empty; Yahoo industry 'Software - Infrastructure' not mappable)

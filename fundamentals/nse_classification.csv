@@ -1004,6 +1004,7 @@ INDPRUD,Industrial & Prudential Investment Company Limited,INE620D01011,EQ,Finan
 INDRAMEDCO,Indraprastha Medical Corporation Limited,INE681B01017,EQ,Healthcare,Healthcare,Healthcare Services,Hospital,bse:ComHeader
 INDSWFTLAB,Ind-Swift Laboratories Limited,INE915B01019,EQ,Healthcare,Healthcare,Pharmaceuticals & Biotechnology,Pharmaceuticals,bse:ComHeader
 INDTERRAIN,Indian Terrain Fashions Limited,INE611L01021,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Garments & Apparels,bse:ComHeader
+INDTONER,Indian Toners & Developers Limited,INE826B01026,EQ,Commodities,Chemicals,Chemicals & Petrochemicals,Specialty Chemicals,bse:ComHeader
 INDUSINDBK,IndusInd Bank Limited,INE095A01012,EQ,Financial Services,Financial Services,Banks,Private Sector Bank,bse:ComHeader
 INDUSTOWER,Indus Towers Limited,INE121J01017,EQ,Telecommunication,Telecommunication,Telecom - Services,Telecom - Infrastructure,bse:ComHeader
 INFOBEAN,InfoBeans Technologies Limited,INE344S01016,EQ,Information Technology,Information Technology,IT - Software,Computers - Software & Consulting,bse:ComHeader
@@ -2474,6 +2475,7 @@ AJOONI,Ajooni Biotech Limited,INE820Y01021,EQ,Fast Moving Consumer Goods,Fast Mo
 AKASH,Akash Infra-Projects Limited,INE737W01013,EQ,Industrials,Construction,Construction,Civil Construction,yahoo:Engineering & Construction (matches 70% of 96 BSE-classified stocks)
 ANNAPURNA,Annapurna Swadisht Limited,INE0MGM01017,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Unclassified,Unclassified,"yahoo:Packaged Foods (sector only, 98% of 60)"
 ANTGRAPHIC,Antarctica Limited,INE414B01021,EQ,Industrials,Capital Goods,Industrial Products,Packaging,yahoo:Packaging & Containers (matches 77% of 35 BSE-classified stocks)
+APOLSINHOT,Apollo Sindoori Hotels Limited,INE451F01024,EQ,Services,Services,Unclassified,Unclassified,"yahoo:Specialty Business Services (sector only, 61% of 18)"
 ARTNIRMAN,Art Nirman Limited,INE738V01013,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,yahoo:Real Estate - Development (matches 93% of 67 BSE-classified stocks)
 ARVEE,Arvee Laboratories (India) Limited,INE006Z01016,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Specialty Chemicals (sector only, 71% of 125)"
 ASPINWALL,Aspinwall and Company Limited,INE991I01015,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Unclassified,Unclassified,"yahoo:Farm Products (sector only, 81% of 21)"
@@ -2493,6 +2495,7 @@ FOCUS,Focus Lighting and Fixtures Limited,INE593W01028,EQ,Consumer Discretionary
 GANGAFORGE,Ganga Forging Limited,INE691Z01023,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Metal Fabrication (sector only, 62% of 34)"
 GEEKAYWIRE,Geekay Wires Limited,INE669X01032,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Electrical Equipment & Parts (sector only, 86% of 57)"
 GICL,Globe International Carriers Limited,INE947T01022,BE,Services,Services,Transport Services,Logistics Solution Provider,yahoo:Integrated Freight & Logistics (matches 93% of 27 BSE-classified stocks)
+GKWLIMITED,GKW Limited,INE528A01020,EQ,Services,Services,Unclassified,Unclassified,"yahoo:Specialty Business Services (sector only, 61% of 18)"
 GLOBAL,Global Education Limited,INE291W01037,EQ,Consumer Discretionary,Consumer Services,Other Consumer Services,Education,yahoo:Education & Training Services (matches 72% of 18 BSE-classified stocks)
 GLOBE,GLOBE ENTERPRISES (INDIA) LIMITED,INE581X01021,EQ,Consumer Discretionary,Textiles,Textiles & Apparels,Other Textile Products,yahoo:Textile Manufacturing (matches 83% of 113 BSE-classified stocks)
 GRADIENTE,Gradiente Infotainment Limited,INE361K01017,BE,Consumer Discretionary,Media Entertainment & Publication,Unclassified,Unclassified,"yahoo:Entertainment (sector only, 88% of 26)"
@@ -2507,6 +2510,7 @@ JAIPURKURT,Nandani Creation Limited,INE696V01013,EQ,Consumer Discretionary,Texti
 JMA,Jullundur Motor Agency (Delhi) Limited,INE412C01023,EQ,Consumer Discretionary,Automobile and Auto Components,Auto Components,Auto Components & Equipments,yahoo:Auto Parts (matches 84% of 100 BSE-classified stocks)
 JOCIL,Jocil Limited,INE839G01010,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Specialty Chemicals (sector only, 71% of 125)"
 KALYANI,Kalyani Commercials Limited,INE610E01010,BE,Consumer Discretionary,Automobile and Auto Components,Automobiles,Auto -Dealer,yahoo:Auto & Truck Dealerships (matches 75% of 4 BSE-classified stocks)
+KAPSTON,Kapston Services Limited,INE542Z01028,EQ,Services,Services,Unclassified,Unclassified,"yahoo:Specialty Business Services (sector only, 61% of 18)"
 KNAGRI,KN Agri Resources Limited,INE0KNW01016,EQ,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Unclassified,Unclassified,"yahoo:Farm Products (sector only, 81% of 21)"
 KOTARISUG,Kothari Sugars And Chemicals Limited,INE419A01022,BE,Fast Moving Consumer Goods,Fast Moving Consumer Goods,Agricultural Food & other Products,Sugar,yahoo:Confectioners (matches 92% of 25 BSE-classified stocks)
 KOTHARIPET,Kothari Petrochemicals Limited,INE720A01015,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Specialty Chemicals (sector only, 71% of 125)"
@@ -2534,6 +2538,7 @@ MOKSH,Moksh Ornaments Limited,INE514Y01020,EQ,Consumer Discretionary,Consumer Du
 NBIFIN,N. B. I. Industrial Finance Company Limited,INE365I01020,EQ,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Capital Markets (sector only, 92% of 72)"
 NDGL,Naga Dhunseri Group Limited,INE756C01015,EQ,Financial Services,Financial Services,Unclassified,Unclassified,"yahoo:Capital Markets (sector only, 92% of 72)"
 NIRAJISPAT,Niraj Ispat Industries Limited,INE326T01011,BE,Consumer Discretionary,Textiles,Textiles & Apparels,Garments & Apparels,yahoo:Apparel Manufacturing (matches 77% of 26 BSE-classified stocks)
+NITIRAJ,Nitiraj Engineers Limited,INE439T01012,EQ,Industrials,Capital Goods,Unclassified,Unclassified,"yahoo:Scientific & Technical Instruments (sector only, 100% of 2)"
 NRL,Nupur Recyclers Limited,INE0JM501013,BE,Utilities,Utilities,Other Utilities,Waste Management,yahoo:Waste Management (matches 75% of 4 BSE-classified stocks)
 OSWALSEEDS,ShreeOswal Seeds And Chemicals Limited,INE00IK01029,EQ,Commodities,Chemicals,Unclassified,Unclassified,"yahoo:Agricultural Inputs (sector only, 82% of 45)"
 PANSARI,Pansari Developers Limited,INE697V01011,EQ,Consumer Discretionary,Realty,Realty,Residential Commercial Projects,yahoo:Real Estate - Development (matches 93% of 67 BSE-classified stocks)
