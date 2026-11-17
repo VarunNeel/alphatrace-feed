@@ -1,1 +1,1 @@
-{"mode":"run","universe":2605,"sources":{"gnews":{"ok":false,"msg":"HTTP Error 429: Too Many Requests"},"yahoo":{"ok":true,"msg":""}},"news":{"ok":588,"fail":11,"empty":1},"fund":{"ok":300,"fail":0},"groups":{"ok":263,"fail":4},"at":1794872458}
+{"mode":"run","universe":2604,"sources":{"gnews":{"ok":true,"msg":""},"yahoo":{"ok":true,"msg":""}},"news":{"ok":598,"fail":0,"empty":2},"fund":{"ok":299,"fail":1},"groups":{"ok":267,"fail":0},"at":1794955163}
