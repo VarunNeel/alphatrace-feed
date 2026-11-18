@@ -22,6 +22,7 @@ Date,Adj Close,Close,High,Low,Open,Volume,SYMBOL,NAME,GROUP,COUNTRY
 2026-11-11,95.97,95.97,97.21,95.4,95.5,1484000,ALB.US,Albemarle Corporation,US Stocks,United States
 2026-11-11,172.08,172.08,175.24,169.66,174.3,860700,ALGN.US,Align Technology,US Stocks,United States
 2026-11-11,262.18,262.18,262.35,256.86,258.24,1100700,ALL.US,Allstate,US Stocks,United States
+2026-11-11,191.09,191.09,191.22,187.21,188.38,633300,ALLE.US,Allegion,US Stocks,United States
 2026-11-11,395.08,395.08,404.71,381.75,392.98,7400700,AMAT.US,Applied Materials,US Stocks,United States
 2026-11-11,44.39,44.39,45.0,44.17,44.73,2720000,AMCR.US,Amcor,US Stocks,United States
 2026-11-11,552.9,552.9,567.65,522.65,543.08,45872800,AMD.US,Advanced Micro Devices,US Stocks,United States
@@ -524,6 +525,7 @@ Date,Adj Close,Close,High,Low,Open,Volume,SYMBOL,NAME,GROUP,COUNTRY
 2026-11-12,94.85,94.85,96.0,93.15,94.34,1785400,ALB.US,Albemarle Corporation,US Stocks,United States
 2026-11-12,166.97,166.97,172.5,166.78,171.45,790100,ALGN.US,Align Technology,US Stocks,United States
 2026-11-12,266.69,266.69,269.2,265.84,267.85,1441000,ALL.US,Allstate,US Stocks,United States
+2026-11-12,190.07,190.07,193.35,190.01,192.24,611000,ALLE.US,Allegion,US Stocks,United States
 2026-11-12,380.95,380.95,397.2,376.09,378.0,9198000,AMAT.US,Applied Materials,US Stocks,United States
 2026-11-12,43.8,43.8,45.0,43.77,44.69,2655900,AMCR.US,Amcor,US Stocks,United States
 2026-11-12,585.3,585.3,594.0,554.9,569.28,55411500,AMD.US,Advanced Micro Devices,US Stocks,United States
@@ -1026,6 +1028,7 @@ Date,Adj Close,Close,High,Low,Open,Volume,SYMBOL,NAME,GROUP,COUNTRY
 2026-11-13,93.53,93.53,95.5,92.64,95.0,1177500,ALB.US,Albemarle Corporation,US Stocks,United States
 2026-11-13,168.32,168.32,171.29,166.04,168.13,665700,ALGN.US,Align Technology,US Stocks,United States
 2026-11-13,267.64,267.64,269.54,266.0,269.54,1311100,ALL.US,Allstate,US Stocks,United States
+2026-11-13,191.98,191.98,191.99,189.06,191.25,732200,ALLE.US,Allegion,US Stocks,United States
 2026-11-13,370.5,370.5,381.37,352.23,376.01,11950800,AMAT.US,Applied Materials,US Stocks,United States
 2026-11-13,43.8,43.8,44.35,43.67,44.24,2580100,AMCR.US,Amcor,US Stocks,United States
 2026-11-13,534.06,534.06,571.14,520.01,566.79,49387600,AMD.US,Advanced Micro Devices,US Stocks,United States
@@ -1528,6 +1531,7 @@ Date,Adj Close,Close,High,Low,Open,Volume,SYMBOL,NAME,GROUP,COUNTRY
 2026-11-16,88.16,88.16,90.81,87.78,90.7,2053500,ALB.US,Albemarle Corporation,US Stocks,United States
 2026-11-16,165.98,165.98,168.99,165.19,168.42,904200,ALGN.US,Align Technology,US Stocks,United States
 2026-11-16,270.43,270.43,272.04,268.0,270.0,1622400,ALL.US,Allstate,US Stocks,United States
+2026-11-16,190.97,190.97,193.8,190.37,191.91,792800,ALLE.US,Allegion,US Stocks,United States
 2026-11-16,350.25,350.25,358.55,346.01,348.49,7105000,AMAT.US,Applied Materials,US Stocks,United States
 2026-11-16,43.77,43.77,44.46,43.57,44.06,3838400,AMCR.US,Amcor,US Stocks,United States
 2026-11-16,504.28,504.28,526.2,501.3,503.45,37115600,AMD.US,Advanced Micro Devices,US Stocks,United States
@@ -2030,6 +2034,7 @@ Date,Adj Close,Close,High,Low,Open,Volume,SYMBOL,NAME,GROUP,COUNTRY
 2026-11-17,87.67,87.67,91.76,87.27,89.58,1761600,ALB.US,Albemarle Corporation,US Stocks,United States
 2026-11-17,163.46,163.46,167.0,162.17,165.46,1079200,ALGN.US,Align Technology,US Stocks,United States
 2026-11-17,270.43,270.43,273.06,268.24,268.89,1732800,ALL.US,Allstate,US Stocks,United States
+2026-11-17,186.77,186.77,192.51,186.61,189.53,803800,ALLE.US,Allegion,US Stocks,United States
 2026-11-17,349.23,349.23,355.7,338.0,354.41,6813100,AMAT.US,Applied Materials,US Stocks,United States
 2026-11-17,43.45,43.45,44.18,43.35,43.41,2891500,AMCR.US,Amcor,US Stocks,United States
 2026-11-17,503.41,503.41,512.12,480.5,512.12,35805800,AMD.US,Advanced Micro Devices,US Stocks,United States
