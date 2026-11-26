@@ -2,6 +2,7 @@ Symbol,ISIN,Reason
 ABCOTS,,not in NSE's equity list (ETF / fund / bond / other instrument)
 DRAGARWQ,,not in NSE's equity list (ETF / fund / bond / other instrument)
 ELPROINTL,,not in NSE's equity list (ETF / fund / bond / other instrument)
+LAL,,not in NSE's equity list (ETF / fund / bond / other instrument)
 NOVARTIND,,not in NSE's equity list (ETF / fund / bond / other instrument)
 SHUKRAPHAR,,not in NSE's equity list (ETF / fund / bond / other instrument)
 UMIYA-MRO,,not in NSE's equity list (ETF / fund / bond / other instrument)
@@ -26,6 +27,7 @@ CMPDI,INE05HV01027,"classified, but no shares/float from any source"
 CMRGREEN,INE00WV01027,"classified, but no shares/float from any source"
 CORONA,INE02ZQ01018,"classified, but no shares/float from any source"
 CPL,INE536P01021,"classified, but no shares/float from any source"
+CRYSTALCP,INE101P01016,"classified, but no shares/float from any source"
 DAICHI,INE928C01010,"classified, but no shares/float from any source"
 DISAQ,INE131C01011,"classified, but no shares/float from any source"
 ECORECO,INE316A01038,"classified, but no shares/float from any source"
@@ -53,6 +55,7 @@ MANIKA,INE0KWF01020,"classified, but no shares/float from any source"
 MCCHRLS-B,INE435D01014,"classified, but no shares/float from any source"
 MITSU,INE317V01016,"classified, but no shares/float from any source"
 MKJEWELS,INE2IXO01012,"classified, but no shares/float from any source"
+MONTEIL,INE740X01023,"classified, but no shares/float from any source"
 MPIMANIPAL,INE241U01028,"classified, but no shares/float from any source"
 MROTEK,INE398B01018,"classified, but no shares/float from any source"
 MYSORPETRO,INE741A01011,"classified, but no shares/float from any source"
@@ -88,6 +91,7 @@ VEEFIN,INE0Q0M01015,"classified, but no shares/float from any source"
 VEEGALAND,INE1JTV01015,"classified, but no shares/float from any source"
 ZODIAC,INE761Y01019,"classified, but no shares/float from any source"
 BANKA,INE862Y01015,second source found nothing (NSE blocked/empty; Yahoo industry 'Pollution & Treatment Controls' not mappable)
-CRYSTALCP,INE101P01016,"no BSE listing for this ISIN, so no classification"
 ESFL,INE0ITO01014,"no BSE listing for this ISIN, so no classification"
+HEGRAPHITE,INE0Y9J01020,"no BSE listing for this ISIN, so no classification"
+MAHACOAL,INE03K401026,"no BSE listing for this ISIN, so no classification"
 OLIL,INE0OPS01011,"no BSE listing for this ISIN, so no classification"
